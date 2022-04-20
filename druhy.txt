@@ -1,3 +1,4 @@
+prvni radek na conflict
 zmena kodu
 druhy radek
 
