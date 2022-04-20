@@ -1,3 +1,4 @@
+konflikt na zacatku s rucni opravou, gitHub
 prvni radek na conflict
 zmena kodu
 druhy radek
