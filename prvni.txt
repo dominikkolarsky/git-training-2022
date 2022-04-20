@@ -9,4 +9,5 @@ if {
 zde je druha funkce 
 if{
 dela neco jineho
+opravime chybu
 }
