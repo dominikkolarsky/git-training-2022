@@ -4,3 +4,4 @@ druhy radek
 pridana druha vetev
 
 prvni pokusny commit rrrr
+opraveny commit
