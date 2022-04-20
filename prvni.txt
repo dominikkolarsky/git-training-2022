@@ -16,3 +16,4 @@ for {
 cykl for, delajici neco
 }
 test zkousky gitHub desktop
+uprava posledniho radku
