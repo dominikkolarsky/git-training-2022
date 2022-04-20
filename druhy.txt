@@ -4,9 +4,13 @@ druhy radek
 pridana druha vetev
 
 prvni pokusny commit rrrr
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 druhy pokusny commit ffff
 =======
 opraveny commit
 sparovani s gitHub desktop
 >>>>>>> Stashed changes
+=======
+opraveny commit
+>>>>>>> c4eebb47e1ab676e5003511f1f225dd63b252921
