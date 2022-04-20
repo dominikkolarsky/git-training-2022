@@ -1,1 +1,2 @@
 zmena kodu
+druhy radek
