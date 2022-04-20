@@ -1,3 +1,8 @@
 wfw
 dfwe
-few
+few¨
+
+zmena kvuli nove vetvi
+pridana nova funkce
+if {
+}
