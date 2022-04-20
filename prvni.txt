@@ -6,3 +6,7 @@ zmena kvuli nove vetvi
 pridana nova funkce
 if {
 }
+zde je druha funkce 
+if{
+dela neco jineho
+}
