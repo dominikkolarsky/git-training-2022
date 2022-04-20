@@ -11,3 +11,7 @@ if{
 dela neco jineho
 opravime chybu
 }
+//koment pro for cykl
+for {
+cykl for, delajici neco
+}

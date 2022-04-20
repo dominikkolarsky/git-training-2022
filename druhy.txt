@@ -1,2 +1,4 @@
 zmena kodu
 druhy radek
+
+pridana druha vetev
