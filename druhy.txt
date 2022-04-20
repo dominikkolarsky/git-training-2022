@@ -1,3 +1,4 @@
+konflikt na zacatku s rucni opravou, desktop
 prvni radek na conflict
 zmena kodu
 druhy radek
